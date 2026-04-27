@@ -5,13 +5,21 @@ This is official Pytorch implementation of "FDSNet: Frequency-Domain Decompositi
 The overall framework of the proposed FDSNet.
 
 
-## Recommended Environment
 
- - [ ] torch  1.13.0
- - [ ] torchvision 0.14.0
- - [ ] kornia 0.7.0
- - [ ] pillow  9.4.0
- - [ ] numpy 1.21.2
+## Recommended Environment
+Environment required for installing code
+
+Run `pip install -r requirements.txt`
+
+ - [ ] torch>=1.13.0
+ - [ ] torchvision>=0.14.0
+ - [ ] numpy>=1.21.0
+ - [ ] Pillow>=9.0.0
+ - [ ] tqdm>=4.64.0
+ - [ ] einops>=0.6.0
+ - [ ] PyWavelets>=1.4.0
+ - [ ] natsort>=8.2.0
+ - [ ] mamba-ssm>=1.2.0
 
 
 # To Train
