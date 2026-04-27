@@ -15,6 +15,7 @@ The overall framework of the proposed FDSNet.
 
 
 # To Train
+Modify training, testing parameters, and dataset paths within `options.py`
 Run `python train.py`.
 # To Test
 Run `python test.py`.
