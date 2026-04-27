@@ -1,4 +1,4 @@
-# FDS-Net
+# FDSNet
 This is official Pytorch implementation of "FDSNet: Frequency-Domain Decomposition and State Space Modeling for Infrared and Visible Image Fusion"
 
 # Framework
